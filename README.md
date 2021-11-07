@@ -20,8 +20,8 @@ Contains plugins for following services used to generate QR code:
 - Write your own service plugin for generating QR images.
 
 
-![QR code field Drupal 8](https://www.drupal.org/files/project-images/qrfield-2.png)
+<img alt="QR code field Drupal 8" src="https://www.drupal.org/files/project-images/qrfield-2.png" width="450px" />
 
-![QR code Drupal 8 configuration](https://www.drupal.org/files/project-images/qrfield-3.png)
+<img alt="QR code Drupal 8 configuration" src="https://www.drupal.org/files/project-images/qrfield-3.png" width="450px" />
 
-![QR code block](https://www.drupal.org/files/project-images/qrfield-01.png)
+<img alt="QR code block" src="https://www.drupal.org/files/project-images/qrfield-01.png" width="450px" />
