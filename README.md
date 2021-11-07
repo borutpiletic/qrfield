@@ -6,13 +6,13 @@
 
 This module enables site builders creating dynamic QR code fields and blocks which can contain content based on a content entity they are attached to.
 
-**QR code block**
+**QR code block**\
 Enables site builders to add dynamic QR code blocks on their website (e.g.: current page link).
 
-**Token support**
+**Token support**\
 All QR codes content can be generated dynamically by using tokens, e.g.: "Bookmark this site: `[site:url] [node:title]`"
 
-**Plugin type support for QR code generator services**
+**Plugin type support for QR code generator services**\
 Contains plugins for following services used to generate QR code:
 
 - Google Chart API: https://developers.google.com/chart/infographics/docs/qr_codes
